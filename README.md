@@ -1,15 +1,14 @@
 # Training_of_data_science
 データ分析のトレーニング
 ## はじめに (インストール～起動まで)
-1. Python (Anaconda) のインストール
-以下のサイトからAnaconda (Python3.6版) をダウンロードする
-https://www.anaconda.com/download/
-※Python3.xと2.xは互換性がないため、間違えないように
+1. Python (Anaconda) のインストール<br>
+以下のサイトからAnaconda (Python3.6版) をダウンロードする<br>
+https://www.anaconda.com/download/<br>
+※Python3.xと2.xは互換性がないため、間違えないように<br>
 ダウンロードしたら、インストーラに従ってインストールする (初期設定のままでよい)
-2. Jupyter Labのインストール (optional)
-今回のトレーニングは基本的にJupyterを使う
-Anacondaでは、Jupyter Notebookが標準でインストールされているが、
-Jupyter Labが後継版として開発されている
+2. Jupyter Labのインストール (optional)<br>
+今回のトレーニングは基本的にJupyterを使う<br>
+Anacondaでは、Jupyter Notebookが標準でインストールされているが、Jupyter Labが後継版として開発されている<br>
 - Anaconda Promptを起動
 - > pip install jupyterlab
 - [y]/nの質問が来たら、yを押してEnter
