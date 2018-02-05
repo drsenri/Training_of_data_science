@@ -5,22 +5,22 @@
 以下のサイトからAnaconda (Python3.6版) をダウンロードする<br>
 https://www.anaconda.com/download/<br>
 ※Python3.xと2.xは互換性がないため、間違えないように<br>
-ダウンロードしたら、インストーラに従ってインストールする (初期設定のままでよい)
+ダウンロードしたら、インストーラに従ってインストールする (初期設定のままでよい)<br>
 2. Jupyter Labのインストール (optional)<br>
 今回のトレーニングは基本的にJupyterを使う<br>
 Anacondaでは、Jupyter Notebookが標準でインストールされているが、Jupyter Labが後継版として開発されている<br>
+(Jupyter Notebookでも同じことができるので、Jupyter Labは必須ではないが、Jupyter Labに慣れた方が効率よくプログラムを開発できる)<br>
 - Anaconda Promptを起動
 - > pip install jupyterlab
-- [y]/nの質問が来たら、yを押してEnter
-(Jupyter Notebookでも同じことができるので、Jupyter Labは必須ではない)
+- [y]/nの質問が来たら、yを押してEnter<br>
 3. Jupyter Labを起動する
 - Anaconda Promptを起動
 - > jupyter lab
 - webブラウザが起動し、Jupyterのページが開く
 
 ## Jupyterを動かす
-1. ノートブックの作成
-起動するとLauncherが表示されるので、Notebook->Python3を選択
+1. ノートブックの作成<br>
+起動するとLauncherが表示されるので、Notebook->Python3を選択<br>
 2. テキストボックス内に適当に打ち込んでみる
 - 例)
 - > a = [1, 2]
