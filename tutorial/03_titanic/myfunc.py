@@ -3,7 +3,6 @@
 
 import numpy as np
 import pandas as pd
-from myfunc import *
 from sklearn.ensemble import RandomForestClassifier
 
 
